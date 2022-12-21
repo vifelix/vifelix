@@ -6,7 +6,7 @@ Cybersecurity | Ethical Hacker | Pentester | Red Team | NSE | LGPD
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vifelix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   ---
 
-[![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)][tryhackme]
+![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)][tryhackme]
     
 </div>
 <div style="display: inline_block"><br>
