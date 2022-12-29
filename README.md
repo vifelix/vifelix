@@ -4,7 +4,7 @@ Cybersecurity | Ethical Hacker | Pentester | Red Team | NSE | LGPD
 <div align="center">
   <a href="https://github.com/vifelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vifelix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <a href="https://tryhackme.com/p/vfelix0160">
+  <a href="https://tryhackme.com/p/ViFelix">
   <img height="90em" src="https://tryhackme-badges.s3.amazonaws.com/ViFelix.png"/>
     
 </div>
