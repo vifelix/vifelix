@@ -10,9 +10,9 @@ Cybersecurity | Ethical Hacker | Pentester | Red Team | NSE | LGPD
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="CatFelix-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1055167495692095539/1057838175390802001/Felix2.png">
-  <img align="center" alt="Felix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Felix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felix-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felix-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Felix-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Felix-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1055167495692095539/1055167614617403522/WhatsApp_Image_2022-12-01_at_13.30.51.jpeg?width=631&height=631">
 </div>
   
